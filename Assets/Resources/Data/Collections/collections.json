@@ -1,0 +1,92 @@
+{
+  "collections": [
+    {
+      "theme": 0,
+      "name": "Pirate Crew",
+      "description": "Complete pirate outfit set",
+      "items": [
+        {
+          "id": "hat_pirate_1",
+          "name": "Pirate Hat",
+          "description": "A captain's tricorn hat",
+          "type": 0,
+          "rarity": 0,
+          "spriteKey": "hat_pirate",
+          "positionOffset": {"x": 0.0, "y": 1.2},
+          "scale": {"x": 1.0, "y": 1.0},
+          "sortingOrder": 10,
+          "isUnlocked": true,
+          "theme": 0,
+          "specialTags": ["pirate"]
+        },
+        {
+          "id": "suit_pirate_1",
+          "name": "Pirate Coat",
+          "description": "Stylish captain coat",
+          "type": 3,
+          "rarity": 1,
+          "spriteKey": "coat_pirate",
+          "positionOffset": {"x": 0.0, "y": 0.0},
+          "scale": {"x": 1.0, "y": 1.0},
+          "sortingOrder": 5,
+          "isUnlocked": true,
+          "theme": 0,
+          "specialTags": ["pirate"]
+        }
+      ],
+      "reward": {
+        "rewardId": "rw_bg_pirate",
+        "rewardName": "Pirate Ship Background",
+        "spriteKey": "bg_pirate_ship",
+        "rarity": 2,
+        "type": 1,
+        "linkedItemId": "pirate_ship"
+      },
+      "isCompleted": false
+    },
+    {
+      "theme": 1,
+      "name": "Space Explorer",
+      "description": "Complete astronaut suit",
+      "items": [
+        {
+          "id": "hat_astro_1",
+          "name": "Space Helmet",
+          "description": "Protective astronaut helmet",
+          "type": 0,
+          "rarity": 1,
+          "spriteKey": "helmet_astro",
+          "positionOffset": {"x": 0.0, "y": 1.1},
+          "scale": {"x": 1.0, "y": 1.0},
+          "sortingOrder": 10,
+          "isUnlocked": true,
+          "theme": 1,
+          "specialTags": ["space"]
+        },
+        {
+          "id": "suit_astro_1",
+          "name": "Spacesuit",
+          "description": "Pressurized spacesuit",
+          "type": 3,
+          "rarity": 2,
+          "spriteKey": "suit_astro",
+          "positionOffset": {"x": 0.0, "y": 0.0},
+          "scale": {"x": 1.0, "y": 1.0},
+          "sortingOrder": 5,
+          "isUnlocked": true,
+          "theme": 1,
+          "specialTags": ["space"]
+        }
+      ],
+      "reward": {
+        "rewardId": "rw_bg_space",
+        "rewardName": "Moon Base Background",
+        "spriteKey": "bg_moon",
+        "rarity": 3,
+        "type": 1,
+        "linkedItemId": "moon_base"
+      },
+      "isCompleted": false
+    }
+  ]
+}

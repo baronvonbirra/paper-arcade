@@ -1,0 +1,26 @@
+[
+  {
+    "minigameId": "spaceship",
+    "minigameName": "Spaceship Shooter",
+    "type": 0,
+    "description": "Shoot falling space meteors and UFOs"
+  },
+  {
+    "minigameId": "tetris",
+    "minigameName": "Paper Tetris",
+    "type": 1,
+    "description": "Classic Tetris block puzzle"
+  },
+  {
+    "minigameId": "memory",
+    "minigameName": "Memory Match",
+    "type": 2,
+    "description": "Match pairs of cards"
+  },
+  {
+    "minigameId": "catch_paper",
+    "minigameName": "Catch Paper",
+    "type": 3,
+    "description": "Catch falling paper pieces in box"
+  }
+]

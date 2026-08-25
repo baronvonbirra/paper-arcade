@@ -1,0 +1,18 @@
+[
+  {
+    "rewardId": "rw_1",
+    "rewardName": "Pirate Hat",
+    "spriteKey": "hat_pirate",
+    "rarity": 0,
+    "type": 0,
+    "linkedItemId": "hat_pirate_1"
+  },
+  {
+    "rewardId": "rw_2",
+    "rewardName": "Spacesuit",
+    "spriteKey": "suit_astro",
+    "rarity": 2,
+    "type": 0,
+    "linkedItemId": "suit_astro_1"
+  }
+]
