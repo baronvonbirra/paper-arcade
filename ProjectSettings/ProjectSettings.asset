@@ -6,3 +6,4 @@ PlayerSettings:
   serializedVersion: 23
   productName: Paper Doll Arcade
   companyName: DefaultCompany
+  standaloneBuildSubtarget: 0
